@@ -38,10 +38,9 @@ This project simulates a real-world airline management system where an admin can
 
 | Role | Username | Password |
 |------|----------|----------|
-| Admin | admin | admin123 |
+| Admin | admin | written in source code |
 | Passenger | (set when added) | (Passenger ID) |
 
 
 **Zain Hassan**
 SSUET — Bachelor of Computer Engineering
-Roll No: 2024F-BCE-102
